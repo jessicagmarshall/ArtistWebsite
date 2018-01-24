@@ -1,0 +1,155 @@
+body {
+color: #000;
+background-color: white;
+	font: .86em "Times New Roman", Georgia, Times, serif;
+}
+
+a {
+color: black;
+text-decoration: none;
+}
+
+#th img {
+	margin-right: 6px;
+	height: 60px;
+	weidth: 90px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+/*
+h1 a, h2 a, h3 a {
+border: none;
+}
+
+h3 a {
+	font-size: 1.2em;
+}
+
+h4 {
+	font-size: 1.1em;
+}
+*/
+
+/* global layout
+----------------------------------------------- */
+
+img {
+	border-style: none;
+	margin-bottom: 10px;
+}
+
+#container {
+width: 990px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content {
+	float:right;
+	width: 740px;
+	padding-bottom: 50px;
+}
+
+#head {
+	padding-right: 5px;
+	padding-bottom: 5px;
+	font-size: 1.1em;
+}
+
+#left #head a {
+	text-decoration: underline;
+}
+
+#head a:hover {
+	color: black;
+}
+
+#left {
+	float:left;
+	width: 240px;
+	margin-right: 10px;
+}
+
+#left div {
+	margin-bottom: 10px;
+}
+
+#left div.active {
+	color: black;
+}
+
+#left a:hover {
+}
+
+#fullsize {
+	width: 740px;
+	height: 493px;
+}
+
+#contact {float:left; width: 350px; margin-top: 0px; padding-bottom: 30px;}
+
+#contact p {
+	margin-top: 0;
+	padding: 0;
+}
+
+.spacer {
+	height: 500px;
+	width: 200px;
+}
+
+.email {width: 300px; height: auto;}
+
+fieldset {
+	border-bottom-style: none;
+}
+
+#foot {
+	text-align: left;
+	height: 14px;
+	padding-top:20px;
+}
+
+#foot img {
+	padding: 0;
+	margin: 0;
+}
+
+#foot a {
+	text-decoration: underline;
+}
+
+#title {
+	padding-bottom: 10px;
+	padding-top: 5px;
+}
+
+#info div {
+	color: whitesmok;
+	font-size: .81em;
+	line-height: 1em;
+	margin-bottom: 3px;
+}
+
+#cv {
+	width: 550px;
+	background: fuchsia;
+	padding: 10px;
+	margin-left: 190px;
+}
+
+#splashcap a {
+	border-style: none;
+}
+
+#error {
+	text-align: center;
+	color: silver;
+	padding: 200px;
+}
+
+hr {color: #fff; background-color: #fff; border: 1px dotted #000; border-style: none none dotted; }
