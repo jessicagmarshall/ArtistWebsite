@@ -1,2 +1,2 @@
-# Portfolio Website
-### basic portfolio website for an artist friend
+# ortfolio Website
+A basic portfolio website for an artist friend.
